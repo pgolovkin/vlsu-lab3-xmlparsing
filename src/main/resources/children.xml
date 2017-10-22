@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <children xmlns="http://dom/children">
-  <child>
-    <fio>Sudent 1</fio>
-    <birthday>2001-01-01</birthday>
-    <totalApples>1</totalApples>
-    <eatenApples>1</eatenApples>
-  </child>
-  <child>
-    <fio>Sudent 2</fio>
-    <birthday>2001-01-01</birthday>
-    <totalApples>1</totalApples>
-    <eatenApples>1</eatenApples>
-  </child>
-  <child>
-    <fio>Sudent 3</fio>
-    <birthday>2001-01-01</birthday>
-    <totalApples>1</totalApples>
-    <eatenApples>1</eatenApples>
-  </child>
-  <child>
-    <fio>Sudent 4</fio>
-    <birthday>2001-01-01</birthday>
-    <totalApples>1</totalApples>
-    <eatenApples>1</eatenApples>
-  </child>
-  <child>
-    <fio>Sudent 5</fio>
-    <birthday>2001-01-01</birthday>
-    <totalApples>1</totalApples>
-    <eatenApples>1</eatenApples>
-  </child>
+    <child>
+        <fio>Sudent 1</fio>
+        <birthday>2001-01-01</birthday>
+        <totalApples>1</totalApples>
+        <eatenApples>1</eatenApples>
+    </child>
+    <child>
+        <fio>Sudent 2</fio>
+        <birthday>2001-01-01</birthday>
+        <totalApples>1</totalApples>
+        <eatenApples>1</eatenApples>
+    </child>
+    <child>
+        <fio>Sudent 3</fio>
+        <birthday>2001-01-01</birthday>
+        <totalApples>1</totalApples>
+        <eatenApples>1</eatenApples>
+    </child>
+    <child>
+        <fio>Sudent 4</fio>
+        <birthday>2001-01-01</birthday>
+        <totalApples>1</totalApples>
+        <eatenApples>1</eatenApples>
+    </child>
+    <child>
+        <fio>Sudent 5</fio>
+        <birthday>2001-01-01</birthday>
+        <totalApples>1</totalApples>
+        <eatenApples>1</eatenApples>
+    </child>
 </children>

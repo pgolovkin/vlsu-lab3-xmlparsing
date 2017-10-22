@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://dom/children" xmlns:tns="http://dom/children" elementFormDefault="qualified">
-		<complexType name="child">
-			<sequence>
-				<element name="fio" type="string"/>
-				<element name="birthday" type="date"/>
-				<element name="totalApples" type="positiveInteger"/>
-				<element name="eatenApples" type="positiveInteger"/>				
-			</sequence>
-		</complexType>
-	<element name = "children">
-		<complexType>
-			<sequence>
-				<element name="child" type="tns:child" minOccurs="1" maxOccurs="unbounded"/>
-			</sequence>
-		</complexType>
-	</element>	
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://dom/children" xmlns:tns="http://dom/children"
+        elementFormDefault="qualified">
+    <complexType name="child">
+        <sequence>
+            <element name="fio" type="string"/>
+            <element name="birthday" type="date"/>
+            <element name="totalApples" type="positiveInteger"/>
+            <element name="eatenApples" type="positiveInteger"/>
+        </sequence>
+    </complexType>
+    <element name="children">
+        <complexType>
+            <sequence>
+                <element name="child" type="tns:child" minOccurs="1" maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
 </schema>
